@@ -1,3 +1,7 @@
+<img src="https://raw.githubusercontent.com/inferigang/.github/main/inferi_banner.jpg">
+
+___
+
 # 🇺🇸 README
 A resume about Inferi Gang group
 
