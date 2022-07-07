@@ -9,6 +9,7 @@ Our current team consists of these members:
 - sorahed
 - Matheuz Security
 - Clust3r
+- Lups
 
 # 🇧🇷 LEIA-ME
 Um resumo sobre o grupo Inferi Gang
@@ -21,3 +22,4 @@ Nosso time atual é composto por estes membros:
 - sorahed
 - Matheuz Security
 - Clust3r
+- Lups
